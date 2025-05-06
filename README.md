@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 with hands-on experience in building modern, responsive web applications using React, Next.js, Node.js, and Express.js. I specialize in full-stack JavaScript development, with a strong focus on creating secure, scalable, and user-friendly applications. My experience includes implementing robust authentication systems using JWT and bcrypt, integrating RESTful APIs, and optimizing application performance.
 
-* 🌍  I'm based in Surathani, Thailand
+* 🌍  I'm based in Surat Thani, Thailand
 * 🖥️  See my portfolio at [training.speedupcenter.com](http://training.speedupcenter.com/lecturer.php)
 * 🧠  I'm learning React, TypeScript, NodeJS, JWT
 
